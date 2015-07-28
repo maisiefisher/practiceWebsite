@@ -1,0 +1,21 @@
+h1 { 
+  color: black;
+}
+
+.title-section {
+text-align: center;
+}
+
+img { 
+border-style: solid;
+border-color: #99CCFF;
+border-width: 20px;
+}
+
+p {
+  font-family: Ariel;
+}
+
+body {
+  background-color: #CCFFFF;
+}
